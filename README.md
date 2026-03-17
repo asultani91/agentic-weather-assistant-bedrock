@@ -382,7 +382,7 @@ Sr. Partner Solutions Architect, AWS
 🔗 [LinkedIn](https://linkedin.com/in/asultani91) | 🐦 [X (Twitter)](https://x.com/as_sultani)
 ☁️ AWS Solutions Architect Associate (SAA-C03) — In Progress
 🤖 Specialization: Generative AI & Agentic Systems
-📺 [Ava Tech YouTube Channel](https://youtube.com/@AvatechChannel) — AWS Tutorials & Tech Updates
+📺 — AWS Tutorials & Tech Updates
 
 ---
 
